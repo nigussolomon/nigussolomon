@@ -1,6 +1,6 @@
 ## Hey, I'm Nigus Solomon! 👨‍💻🚀
 
-Welcome to my GitHub profile! I'm a passionate developer with a love for coding and exploring new technologies. I'm always on the lookout for exciting projects and challenges. Feel free to explore my repositories.
+Web developer with a passion for backend technologies and a knack for frontend design. Always eager to learn new skills and collaborate on exciting projects.
 
 ![Nigus Solomon's GitHub stats](https://github-readme-stats.vercel.app/api?username=nigussolomon&hide=stars&show_icons=true&theme=radical)
 
