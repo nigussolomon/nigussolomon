@@ -3,6 +3,7 @@
 Web developer with a passion for backend technologies and a knack for frontend design. Always eager to learn new skills and collaborate on exciting projects.
 
 ![Nigus Solomon's GitHub stats](https://github-readme-stats.vercel.app/api?username=nigussolomon&hide=stars&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nigussolomon&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 💼 Skills & Technologies
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
